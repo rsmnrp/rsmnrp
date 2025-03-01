@@ -1,9 +1,10 @@
 ## Hi there! 🍀
 
-- Currently a Final Year Student at Singapore Management University 📚
+- Final Year Student at Singapore Management University 📚
 - Majoring in Economics and Data Science & Analytics 📊
 - Interests: Space 🔭, Animals 🐱, Environment 🌱 and Formula 1 🏎️
 - Always eager to try new things!
+- Currently: re-building my portfolio... 🚧
 
 ## Skills 💡
 - R 
