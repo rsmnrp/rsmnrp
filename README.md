@@ -14,9 +14,10 @@
 
 ## Connect with  me!
 - [Linkedin]
-- Portfolio (tbc)
+- [Portfolio] (still in works.)
 
 [Linkedin]: https://www.linkedin.com/in/qistina-purnamasari/
+[Portfolio]: https://rsmnrp.github.io/
 <!--
 **rsmnrp/rsmnrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
