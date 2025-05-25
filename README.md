@@ -4,17 +4,21 @@
 - Majoring in Economics and Data Science & Analytics 📊
 - Interests: Space 🔭, Animals 🐱, Environment 🌱 and Formula 1 🏎️
 - Always eager to try new things!
-- Currently: re-building my portfolio... 🚧
+- Currently: working on a project... 🚧
 
 ## Skills 💡
-- R 
+- R
+  - Data Visualisation
+  - Data Wrangling 
 - Python
+  - NumPy
+  - Matplotlib
 - Tableau
 - SQL
 
 ## Connect with  me!
 - [Linkedin]
-- [Portfolio] (still in works.)
+- [Portfolio] 
 
 [Linkedin]: https://www.linkedin.com/in/qistina-purnamasari/
 [Portfolio]: https://rsmnrp.github.io/
