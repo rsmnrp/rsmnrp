@@ -1,7 +1,6 @@
 ## Hi there! 🍀
 
 I'm a final-year student at Singapore Management University, majoring in **Economics** and **Data Science & Analytics**.  
-I’m passionate about uncovering insights through data and using it to drive real-world impact — especially in **finance**, **sustainability**, and beyond.
 
 ### 💫 Interests
 - Finance 📈 • Space 🔭 • Environment 🌱 • Animals 🐾 • Formula 1 🏎️
