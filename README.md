@@ -1,6 +1,6 @@
 ## Hi there! 🍀
 
-I'm a final-year student at Singapore Management University, majoring in **Economics** and **Data Science & Analytics**.  
+I'm a fresh graduate from Singapore Management University, majoring in **Economics** and **Data Science & Analytics**.  
 
 ### 💫 Interests
 - Finance 📈 • Space 🔭 • Environment 🌱 • Animals 🐾 • Formula 1 🏎️
